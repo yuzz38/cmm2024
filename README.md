@@ -1,7 +1,9 @@
-#Адаптивная верстка лендига для форума «Цифровая цветная металлургия»
+# Адаптивная верстка лендига для форума «Цифровая цветная металлургия»
 
-## стек: HTML CSS JS (JQuery) + Swiper + FancyBox
+## Cтек: HTML CSS JS (JQuery) + Swiper + FancyBox
 
 ### Данный лендинг полностью адаптирован как под мобильные устройства так и под любые браузеры. Есть слайдер, поп-ап меню, кастомный выпадающий список, табы
 
-<img width="3858" height="2308" alt="yuzz38 github io_cmm2024_" src="https://github.com/user-attachments/assets/57f0cf25-d292-460b-9378-ce7b17236e9b" />
+<img width="3858" height="12270" alt="yuzz38 github io_cmm2024_ (1)-min" src="https://github.com/user-attachments/assets/d0dc1a2e-a58b-4e33-9708-8e7e44846d73" />
+
+
