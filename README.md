@@ -4,6 +4,6 @@
 
 ### Данный лендинг полностью адаптирован как под мобильные устройства так и под любые браузеры. Есть слайдер, поп-ап меню, кастомный выпадающий список, табы
 
-<img width="3858" height="13270" alt="yuzz38 github io_cmm2024_ (1)-min" src="https://github.com/user-attachments/assets/d0dc1a2e-a58b-4e33-9708-8e7e44846d73" />
+<img width="3858" height="15270" alt="yuzz38 github io_cmm2024_ (1)-min" src="https://github.com/user-attachments/assets/d0dc1a2e-a58b-4e33-9708-8e7e44846d73" />
 
 
